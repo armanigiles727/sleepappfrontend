@@ -17,16 +17,21 @@ A mobile sleep tracking app built with React Native that helps users log their s
 	•	Dev Tools: Jest for testing, Android Studio/Xcode for builds
 
 🚀 Getting Started
-	1.	Clone the repository
- git clone https://github.com/armanigiles727/sleepappfrontend.git
+1.	Clone the repository
+ 
+```sh
+git clone https://github.com/armanigiles727/sleepappfrontend.git
 cd sleepappfrontend
-
-	2.	Install dependencies
+```
+2.	Install dependencies
+```sh
  npm install
- 3.	Run on iOS or Android
- npx react-native run-ios
+```
+3. Run on iOS or Android
+ ```sh
+npx react-native run-ios
 npx react-native run-android
-
+```
 
 🔮 Roadmap
 	•	Add advanced analytics (sleep quality scoring, trends)
