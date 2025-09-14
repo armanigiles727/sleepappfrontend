@@ -23,8 +23,8 @@ cd sleepappfrontend
 
 	2.	Install dependencies
  npm install
- 	3.	Run on iOS or Android
-  npx react-native run-ios
+ 3.	Run on iOS or Android
+ npx react-native run-ios
 npx react-native run-android
 
 
