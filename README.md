@@ -1,4 +1,4 @@
-Sleep App Frontend
+## SleepFriend (Ongoing Project)
 
 A mobile sleep tracking app built with React Native that helps users log their sleep, view insights, and compare results with others on a community leaderboard. Designed with a clean UI and smooth performance, the app integrates with backend APIs for authentication, data storage, and analytics.
 
